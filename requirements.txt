@@ -1,0 +1,15 @@
+PyYAML>=6.0
+traci>=1.24.0
+sumolib>=1.24.0
+pytest>=8.0
+qiskit>=1.2
+qiskit-aer>=0.15
+numpy>=1.26
+scipy>=1.13
+flask>=3.0
+ultralytics>=8.0
+opencv-python>=4.8
+matplotlib>=3.8
+requests>=2.31
+torch>=2.0.0
+pillow>=10.0.0
